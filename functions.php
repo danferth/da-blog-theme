@@ -47,5 +47,12 @@ require_once( 'library/sticky-posts.php' );
 /** Configure responsive image sizes */
 require_once( 'library/responsive-images.php' );
 
+// danferth functions
+require_once('library/danferth-functions.php');
+
+//Shortcodes
+require_once('library/shortcodes.php');
+
+
 /** If your site requires protocol relative url's for theme assets, uncomment the line below */
 // require_once( 'library/protocol-relative-theme-assets.php' );
